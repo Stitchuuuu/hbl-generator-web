@@ -1,0 +1,21 @@
+table.pokesos {
+    font-family: "Consolas";
+    font-size: 200%;
+}
+
+table.pokesos tr {
+    color: #c5c5c5;
+}
+table.pokesos tr.shiny {
+    color: white;
+}
+
+table.pokesos tr td {
+    padding-right: 40px;
+}
+table.pokesos tr td.chaine {
+    font-size: 70%;
+}
+table.pokesos .lbl {
+    font-size: 65%;
+}

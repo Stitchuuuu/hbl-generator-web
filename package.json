@@ -1,0 +1,11 @@
+{
+  "name": "hlb-generator-web",
+  "version": "0.0.1",
+  "dependencies": {
+    "express":     "4.x",
+    "xml2js":      "latest",
+    "i18n":        "latest",
+    "nunjucks":    "latest",
+    "body-parser": "latest"
+  }
+}
